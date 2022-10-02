@@ -43,6 +43,3 @@ Scenario: Create Post using a Form
   And enters images about the food
   And send this information to save
   Then a succesful screen should be shown
-
-  // FORM REGISTRO
-  // FORM PUBLICAR
